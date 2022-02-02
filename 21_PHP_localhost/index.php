@@ -10,5 +10,10 @@
 ?>
 
 <?php
+    $t = true;
+    $n = null;
+?>
+
+<?php
     include 'main.php';
 ?>
