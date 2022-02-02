@@ -1,12 +1,12 @@
 <?php
-    $p = `Hi there on my first PHP project`;
+    $intro = 'Hi there on my first PHP project';
 ?>
 
 <?php
-    $firstname = `Sergey`;
-    $lastname = `Kudelin`;
-    $city = `Moscow`;
-    $age = `29`;
+    $firstname = 'Sergey';
+    $lastname = 'Kudelin';
+    $city = 'Moscow';
+    $age = '29';
 ?>
 
 <?php

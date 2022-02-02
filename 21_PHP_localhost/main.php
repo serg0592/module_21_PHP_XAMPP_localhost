@@ -26,6 +26,9 @@
                     <?php include 'write_to_me.inc.php' ?>
                 </div>
                 <div class="item box5">
+                    <p class="php-introducing">
+                        <?php echo $intro ?>
+                    </p>
                     <?php include 'about_me.inc.php' ?>
                 </div>
                 <div class="item box6">

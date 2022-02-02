@@ -1,3 +1,23 @@
+.php-introducing {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    left: calc(50% - 257px);    
+    max-width: 525px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.php-data {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    left: calc(50% - 257px);    
+    max-width: 525px;
+}
+
 body {
     margin: 0;
 }
@@ -84,7 +104,6 @@ h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 32px;
     font-weight: 500;
-    margin: 112px 0 0 0;
 }
 
 p {
