@@ -1,6 +1,6 @@
 <div class="numbers">
     <?php
-        echo <<<'EOD'
+        echo <<<EOD
             <img src="img/numbers.png">
             <img src="img/numbers.png">
             <img src="img/numbers.png">
